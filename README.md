@@ -7,7 +7,7 @@ Ruby is a pure object-oriented programming language. It was created in 1993 by Y
 
 **Ruby is "A Programmer's Best Friend".**
 
-Ruby has features that are similar to those of Smalltalk, Perl, and Python. Perl, Python, and Smalltalk are scripting languages. Smalltalk is a true object-oriented language. Ruby, like Smalltalk, is a perfect object-oriented language. Using Ruby syntax is much easier than using Smalltalk syntax.
+Ruby has features that are similar to those of Smalltalk,Perl, and Python. Perl, Python, and Smalltalk are scripting languages. Smalltalk is a true object-oriented language. Ruby, like Smalltalk, is a perfect object-oriented language. Using Ruby syntax is much easier than using Smalltalk syntax.
 
 ## Learning Ruby
 
