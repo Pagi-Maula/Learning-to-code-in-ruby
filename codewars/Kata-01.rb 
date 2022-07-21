@@ -1,0 +1,20 @@
+# Description 
+# Complete the square sum function so that it squares each number passed into it and then sums the results together.
+
+#For example, for [1, 2, 2] it should return 9 because 1^2 + 2^2 + 2^2 = 9.
+
+# solution :
+
+def square_sum(numbers)
+  size = numbers.size #extracting the size of the given array
+  limit = 0 
+  sum = 0
+  until limit == size do # settting up a loop for the method to square a number
+    multiplier = numbers[limit] # setting the variable to a five element of the array
+    multiplier = multiplier ** 2 # squaring the element of the array
+    sum = sum + multiplier # making the sum
+    limit = limit + 1 
+    end
+  return sum # returns the sum of the squared values
+  
+end
